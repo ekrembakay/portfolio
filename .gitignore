@@ -87,4 +87,4 @@ local_settings.py
 
 .env
 db.sqlite3
-ekrem_pp/setting.py.secret
+ekrem_pp/settings.py.secret
